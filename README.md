@@ -120,7 +120,7 @@ Plot 5 represents the annual income of the customers with relation to their spen
 
 ## :memo: References
 
-1. Kaggle Dataset from [click here](https://kaggle.com).
+1. Kaggle Dataset from [https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
 2. Choudhary, V. (n.d.). Mall Customer Segmentation Data. Retrieved November 4, 2021, from [https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
